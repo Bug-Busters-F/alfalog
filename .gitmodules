@@ -1,0 +1,3 @@
+[submodule "alfalog-backend"]
+	path = alfalog-backend
+	url = https://github.com/Bug-Busters-F/alfalog-backend

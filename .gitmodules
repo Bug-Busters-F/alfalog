@@ -1,3 +1,6 @@
 [submodule "alfalog-backend"]
 	path = alfalog-backend
 	url = https://github.com/Bug-Busters-F/alfalog-backend
+[submodule "alfalog-frontend"]
+	path = alfalog-frontend
+	url = https://github.com/Bug-Busters-F/alfalog-frontend

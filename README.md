@@ -49,19 +49,20 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 ### Sprint 1
 
-![GIF Sprint 1](images/GifSprint1.gif)
+![GIF Sprint 1](docs/gifs/GifSprint1.gif)
 
-- [ ] 
+- [x] Interface intuitiva 
+- [x] Mostra de dados 
 
 ### Sprint 2
 
-![GIF Sprint 2](images/GifSprint2.gif)
+![GIF Sprint 2](docs/gifs//GifSprint2.gif)
 
 - [ ] 
 
 ### Sprint 3
 
-![GIF Sprint 3](images/GifSprint3.gif)
+![GIF Sprint 3](docs/gifs/GifSprint3.gif)
 
 - [ ] 
 
@@ -108,44 +109,49 @@ Soft skills desenvolvidas
 - HTML, CSS
 - Jira
 - MySQL
-- Draw.io
 - Markdown
+- Flask
+- Google Colab
+- Vite
+- Tailwind 
+- ApexChart
+
 
 ## Documentos
 
 ### Backlog do Produto
 
-![Backlog Produto](images/BacklogNovo.png)
+![Backlog Produto](docs/images/images/backlogProduto.png)
 
 ## Sprint 1
 
 ### Gráfico Burndown
 
-![Burndown](images/BurndownS1.png)
+![Burndown](docs/images/BurndownS1.png)
 
 ### Backlog da Sprint
 
-![Backlog Sprint](images/BacklogS1.png)
+![Backlog Sprint](docs/images/backlogS1.png.png)
 
 ## Sprint 2
 
 ### Gráfico Burndown
 
-![Burndown](images/Burndown2.png)
+![Burndown](docs/images/Burndown2.png)
 
 ### Backlog da Sprint
 
-![Backlog Sprint](images/BacklogSprint2.png)
+![Backlog Sprint](docs/images/BacklogSprint2.png)
 
 ## Sprint 3
 
 ### Gráfico Burndown
 
-![Burndown](images/Burndown3.png)
+![Burndown](docs/images/Burndown3.png)
 
 ### Backlog da Sprint
 
-![Backlog Sprint](images/BacklogSprint3.png)
+![Backlog Sprint](docs/images/BacklogSprint3.png)
 
 <!-- ## Veja Também
 

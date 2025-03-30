@@ -121,7 +121,7 @@ Soft skills desenvolvidas
 
 ### Backlog do Produto
 
-![Backlog Produto](docs/images/images/backlogProduto.png)
+![Backlog Produto](docs/images/backlogProduto.png)
 
 ## Sprint 1
 
@@ -131,7 +131,7 @@ Soft skills desenvolvidas
 
 ### Backlog da Sprint
 
-![Backlog Sprint](docs/images/backlogS1.png.png)
+![Backlog Sprint](docs/images/backlogS1.png)
 
 ## Sprint 2
 

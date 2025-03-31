@@ -125,6 +125,11 @@ Soft skills desenvolvidas
 
 ![Backlog Produto](docs/images/backlogProduto.png)
 
+### Google Colab
+
+Análise e Limpeza dos Dados do COMEX
+https://colab.research.google.com/drive/1DwDj6T6Z1mT2ow5CkBh_Ff7bxEuN2vzO?usp=sharing
+
 ## Sprint 1
 
 ### Gráfico Burndown

@@ -116,6 +116,8 @@ Soft skills desenvolvidas
 - Tailwind 
 - ApexChart
 
+![Tecnologias image](docs/images/tecnologias.png)
+
 
 ## Documentos
 
@@ -171,4 +173,4 @@ Soft skills desenvolvidas
 |  Team Member  | Diego Castilho   |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigoCast) |
 |  Team Member  | Humberto Ishii   |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HumbertoIshii) |
 
-![Bug Busters](images/bug-busters-logo-black.jpg)
+![Bug Busters](docs/images/bug-busters-logo-black.jpg)

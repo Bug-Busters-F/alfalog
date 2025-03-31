@@ -172,5 +172,5 @@ Soft skills desenvolvidas
 |  Team Member  | Allan Couto      |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/allancouto) |
 |  Team Member  | Diego Castilho   |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigoCast) |
 |  Team Member  | Humberto Ishii   |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HumbertoIshii) |
-
+|  Team Member  | Fábio Eyki       |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/llWinter1z)|
 ![Bug Busters](docs/images/bug-busters-logo-black.jpg)

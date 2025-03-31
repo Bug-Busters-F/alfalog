@@ -127,7 +127,7 @@ Soft skills desenvolvidas
 
 ### Gráfico Burndown
 
-![Burndown](docs/images/BurndownS1.png)
+![Burndown](docs/images/burndownSprint1.png)
 
 ### Backlog da Sprint
 

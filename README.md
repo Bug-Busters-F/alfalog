@@ -42,26 +42,27 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 | Sprint            | Previsão   | Status    |
 | ----------------- | ---------- | --------- |
 | Kick Off          | 28/02/2025 | Concluído |
-| 01                | 31/03/2025 | A fazer   |
+| 01                | 31/03/2025 | Concluído |
 | 02                | 28/04/2025 | A fazer   |
 | 03                | 05/05/2025 | A fazer   |
 | Feira de Soluções | 29/05/2025 | A fazer   |
 
 ### Sprint 1
 
-![GIF Sprint 1](images/GifSprint1.gif)
+![GIF Sprint 1](docs/gifs/GifSprint1.gif)
 
-- [ ] 
+- [x] Interface intuitiva 
+- [x] Mostra de dados 
 
 ### Sprint 2
 
-![GIF Sprint 2](images/GifSprint2.gif)
+![GIF Sprint 2](docs/gifs//GifSprint2.gif)
 
 - [ ] 
 
 ### Sprint 3
 
-![GIF Sprint 3](images/GifSprint3.gif)
+![GIF Sprint 3](docs/gifs/GifSprint3.gif)
 
 - [ ] 
 
@@ -108,44 +109,56 @@ Soft skills desenvolvidas
 - HTML, CSS
 - Jira
 - MySQL
-- Draw.io
 - Markdown
+- Flask
+- Google Colab
+- Vite
+- Tailwind 
+- ApexChart
+
+![Tecnologias image](docs/images/tecnologias.png)
+
 
 ## Documentos
 
 ### Backlog do Produto
 
-![Backlog Produto](images/BacklogNovo.png)
+![Backlog Produto](docs/images/backlogProduto.png)
+
+### Google Colab
+
+Análise e Limpeza dos Dados do COMEX
+https://colab.research.google.com/drive/1DwDj6T6Z1mT2ow5CkBh_Ff7bxEuN2vzO?usp=sharing
 
 ## Sprint 1
 
 ### Gráfico Burndown
 
-![Burndown](images/BurndownS1.png)
+![Burndown](docs/images/burndownSprint1.png)
 
 ### Backlog da Sprint
 
-![Backlog Sprint](images/BacklogS1.png)
+![Backlog Sprint](docs/images/backlogS1.png)
 
 ## Sprint 2
 
 ### Gráfico Burndown
 
-![Burndown](images/Burndown2.png)
+![Burndown](docs/images/Burndown2.png)
 
 ### Backlog da Sprint
 
-![Backlog Sprint](images/BacklogSprint2.png)
+![Backlog Sprint](docs/images/BacklogSprint2.png)
 
 ## Sprint 3
 
 ### Gráfico Burndown
 
-![Burndown](images/Burndown3.png)
+![Burndown](docs/images/Burndown3.png)
 
 ### Backlog da Sprint
 
-![Backlog Sprint](images/BacklogSprint3.png)
+![Backlog Sprint](docs/images/BacklogSprint3.png)
 
 <!-- ## Veja Também
 
@@ -164,5 +177,7 @@ Soft skills desenvolvidas
 |  Team Member  | Allan Couto      |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/allancouto) |
 |  Team Member  | Diego Castilho   |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigoCast) |
 |  Team Member  | Humberto Ishii   |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HumbertoIshii) |
+|  Team Member  | Fábio Eyki       |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/llWinter1z)|
 
-![Bug Busters](images/bug-busters-logo-black.jpg)
+
+![Bug Busters](docs/images/bug-busters-logo-black.jpg)

@@ -43,7 +43,7 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 | ----------------- | ---------- | --------- |
 | Kick Off          | 28/02/2025 | Concluído |
 | 01                | 31/03/2025 | Concluído |
-| 02                | 28/04/2025 | A fazer   |
+| 02                | 28/04/2025 | Concluído |
 | 03                | 05/05/2025 | A fazer   |
 | Feira de Soluções | 29/05/2025 | A fazer   |
 

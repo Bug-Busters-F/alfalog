@@ -58,7 +58,8 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 ![GIF Sprint 2](docs/gifs//GifSprint2.gif)
 
-- [ ] 
+- [x] Dados reais mostrados em gráficos e tabela, com foco em gráfico
+- [x] Maior densidade de informação 
 
 ### Sprint 3
 
@@ -115,6 +116,7 @@ Soft skills desenvolvidas
 - Vite
 - Tailwind 
 - ApexChart
+- Docker
 
 ![Tecnologias image](docs/images/tecnologias.png)
 
@@ -177,7 +179,6 @@ https://colab.research.google.com/drive/1DwDj6T6Z1mT2ow5CkBh_Ff7bxEuN2vzO?usp=sh
 |  Team Member  | Allan Couto      |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/allancouto) |
 |  Team Member  | Diego Castilho   |             [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DigoCast) |
 |  Team Member  | Humberto Ishii   |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/HumbertoIshii) |
-|  Team Member  | Fábio Eyki       |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/llWinter1z)|
 
 
 ![Bug Busters](docs/images/bug-busters-logo-black.jpg)

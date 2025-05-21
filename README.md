@@ -26,6 +26,7 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Documentos](#documentos)
     - [Backlog do Produto](#backlog-do-produto)
+    - [Google Colab](#google-colab)
   - [Sprint 1](#sprint-1-1)
     - [Gráfico Burndown](#gráfico-burndown)
     - [Backlog da Sprint](#backlog-da-sprint)
@@ -51,21 +52,21 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 ![GIF Sprint 1](docs/gifs/GifSprint1.gif)
 
-- [x] Interface intuitiva 
-- [x] Mostra de dados 
+- [x] Interface intuitiva
+- [x] Mostra de dados
 
 ### Sprint 2
 
 ![GIF Sprint 2](docs/gifs//GifSprint2.gif)
 
 - [x] Dados reais mostrados em gráficos e tabela, com foco em gráfico
-- [x] Maior densidade de informação 
+- [x] Maior densidade de informação
 
 ### Sprint 3
 
 ![GIF Sprint 3](docs/gifs/GifSprint3.gif)
 
-- [ ] 
+- [ ]
 
 ## Competências desenvolvidas
 
@@ -114,7 +115,7 @@ Soft skills desenvolvidas
 - Flask
 - Google Colab
 - Vite
-- Tailwind 
+- Tailwind
 - ApexChart
 - Docker
 
@@ -129,8 +130,7 @@ Soft skills desenvolvidas
 
 ### Google Colab
 
-Análise e Limpeza dos Dados do COMEX
-https://colab.research.google.com/drive/1DwDj6T6Z1mT2ow5CkBh_Ff7bxEuN2vzO?usp=sharing
+- [Tratamento dos Dados de Exportação e Importação dos Estados Brasileiros](./tratamento-dados/Tratamento%20dos%20Dados%20de%20Exportação%20e%20Importação%20dos%20Estados%20Brasileiros.ipynb)
 
 ## Sprint 1
 

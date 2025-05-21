@@ -17,6 +17,7 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 - [AlfaLog](#alfalog)
   - [Índice](#índice)
   - [Cronograma e Sprints](#cronograma-e-sprints)
+  - [Tratamento dos Dados do Comércio Exterior](#tratamento-dos-dados-do-comércio-exterior)
     - [Sprint 1](#sprint-1)
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
@@ -26,7 +27,6 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Documentos](#documentos)
     - [Backlog do Produto](#backlog-do-produto)
-    - [Google Colab](#google-colab)
   - [Sprint 1](#sprint-1-1)
     - [Gráfico Burndown](#gráfico-burndown)
     - [Backlog da Sprint](#backlog-da-sprint)
@@ -47,6 +47,10 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 | 02                | 28/04/2025 | Concluído |
 | 03                | 05/05/2025 | A fazer   |
 | Feira de Soluções | 29/05/2025 | A fazer   |
+
+## Tratamento dos Dados do Comércio Exterior
+
+- A Leitura e a Limpeza dos Dados de Exportação e Importação dos Estados Brasileiros pode ser acesso [neste Jupyter notebook](./tratamento-dados/Tratamento%20dos%20Dados%20de%20Exportação%20e%20Importação%20dos%20Estados%20Brasileiros.ipynb).
 
 ### Sprint 1
 
@@ -127,10 +131,6 @@ Soft skills desenvolvidas
 ### Backlog do Produto
 
 ![Backlog Produto](docs/images/backlogProduto.png)
-
-### Google Colab
-
-- [Tratamento dos Dados de Exportação e Importação dos Estados Brasileiros](./tratamento-dados/Tratamento%20dos%20Dados%20de%20Exportação%20e%20Importação%20dos%20Estados%20Brasileiros.ipynb)
 
 ## Sprint 1
 

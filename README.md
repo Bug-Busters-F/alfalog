@@ -17,6 +17,7 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 - [AlfaLog](#alfalog)
   - [Índice](#índice)
   - [Cronograma e Sprints](#cronograma-e-sprints)
+  - [Tratamento dos Dados do Comércio Exterior](#tratamento-dos-dados-do-comércio-exterior)
     - [Sprint 1](#sprint-1)
     - [Sprint 2](#sprint-2)
     - [Sprint 3](#sprint-3)
@@ -47,25 +48,29 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 | 03                | 05/05/2025 | A fazer   |
 | Feira de Soluções | 29/05/2025 | A fazer   |
 
+## Tratamento dos Dados do Comércio Exterior
+
+- A Leitura e a Limpeza dos Dados de Exportação e Importação dos Estados Brasileiros pode ser acesso [neste Jupyter notebook](./tratamento-dados/Tratamento%20dos%20Dados%20de%20Exportação%20e%20Importação%20dos%20Estados%20Brasileiros.ipynb).
+
 ### Sprint 1
 
 ![GIF Sprint 1](docs/gifs/GifSprint1.gif)
 
-- [x] Interface intuitiva 
-- [x] Mostra de dados 
+- [x] Interface intuitiva
+- [x] Mostra de dados
 
 ### Sprint 2
 
 ![GIF Sprint 2](docs/gifs//GifSprint2.gif)
 
 - [x] Dados reais mostrados em gráficos e tabela, com foco em gráfico
-- [x] Maior densidade de informação 
+- [x] Maior densidade de informação
 
 ### Sprint 3
 
 ![GIF Sprint 3](docs/gifs/GifSprint3.gif)
 
-- [ ] 
+- [ ]
 
 ## Competências desenvolvidas
 
@@ -114,7 +119,7 @@ Soft skills desenvolvidas
 - Flask
 - Google Colab
 - Vite
-- Tailwind 
+- Tailwind
 - ApexChart
 - Docker
 
@@ -126,11 +131,6 @@ Soft skills desenvolvidas
 ### Backlog do Produto
 
 ![Backlog Produto](docs/images/backlogProduto.png)
-
-### Google Colab
-
-Análise e Limpeza dos Dados do COMEX
-https://colab.research.google.com/drive/1DwDj6T6Z1mT2ow5CkBh_Ff7bxEuN2vzO?usp=sharing
 
 ## Sprint 1
 
